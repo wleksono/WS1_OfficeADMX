@@ -1,0 +1,309 @@
+<Replace>
+	<CmdID>7E2C0B5A-98E1-4595-AD40-CA6880680E4B</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter/L_DisableTrustBarNotificationforunsigned
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>E4C947D8-EC33-440E-92CD-509F7A5D7CED</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter/L_RequirethatApplicationExtensionsaresigned
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>E703B334-BF66-412C-AF27-BEDA093EA928</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter/L_Disableallapplicationextensions
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>6E99E0F5-6F1A-424B-AAD9-05429CC1E88A</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_PowerPoint972003PresentationsShowsTemplatesandAddInFiles</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_PowerPoint972003PresentationsShowsTemplatesandAddInFilesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>D0177F8E-E610-4419-99D2-DF3E9D4B8E9A</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_SetDefaultFileBlockBehavior</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_SetDefaultFileBlockBehaviorDropID" value="0"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>2B968CAB-7DCA-426F-B867-E4202CF6B553</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security/L_TurnOffFileValidation
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>C688EB0F-F033-4AF4-8E09-1564CFEC2F50</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security/L_RunPrograms</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Empty" value="0"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>F12C679A-6818-438B-90FA-DD814A6F9CA3</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesFromTheInternetZoneInProtectedView
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>C787736E-84E0-485F-BDFC-79C2BAE3B271</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesInUnsafeLocationsInProtectedView
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>3DBDC3C6-CDC8-4753-9502-AF64D632A15A</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_ProtectedView/L_SetDocumentBehaviorIfFileValidationFails
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_SetDocumentBehaviorIfFileValidationFailsStr3" value="false"/> 
+			<data id="L_SetDocumentBehaviorIfFileValidationFailsDropID" value="0"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>60D370DF-27F8-4D15-B4AA-25D680F3E923</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_ProtectedView/L_TurnOffProtectedViewForAttachmentsOpenedFromOutlook
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>1CCFCC7D-1AA6-45E4-86B7-885752AF50B7</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocuments
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>243F505E-EF3D-4525-9C47-DD5D9F3AA738</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocumentsOnTheNetwork
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>243F505E-EF3D-4525-9C47-DD5D9F3AA738</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocumentsOnTheNetwork
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>074757AE-4738-4C0F-8562-D0CB33D3C55A</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security/L_Makehiddenmarkupvisible
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+
+
+
+
+
+<Delete>
+	<CmdID>9F7E501D-2B1C-496E-A5F2-9DF6169F4D0D</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter/L_DisableTrustBarNotificationforunsigned
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>31F3A038-C086-4FB6-BDA0-F5BD12ED425D</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter/L_RequirethatApplicationExtensionsaresigned
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>CAC93026-A196-45CC-A2F1-DF2AE4C5A571</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter/L_Disableallapplicationextensions
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>3F823F51-1B79-4C3F-A689-D23E652CCF87</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_PowerPoint972003PresentationsShowsTemplatesandAddInFiles</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>8D2B086A-EE31-4AC9-8099-BE056A09FE6C</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_SetDefaultFileBlockBehavior</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>9D96F0B0-2093-4A7B-96F1-44535E7B0ED6</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security/L_TurnOffFileValidation
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>BC87C3D6-C8B5-4544-BF9A-996DBB903FA1</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security/L_RunPrograms</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>4770EEAD-0367-4880-B2E7-C87E3DD7BBE4</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesFromTheInternetZoneInProtectedView
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>E50CF68D-3006-4FE2-B378-EEB300E69B51</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesInUnsafeLocationsInProtectedView
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>9FDA1FE1-90E2-4926-A825-CD38335519CF</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_ProtectedView/L_SetDocumentBehaviorIfFileValidationFails
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>C435733F-AE2B-4360-9B6A-9AA99F854A77</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter~L_ProtectedView/L_TurnOffProtectedViewForAttachmentsOpenedFromOutlook
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>A162A820-E9CB-45D5-9FAE-5CB43E72F729</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocuments
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>D9D7D15F-E3EC-493B-917C-1462AB9E41BC</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocumentsOnTheNetwork
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>6AAE6933-8E6C-48C0-8086-CBAE26187F13</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Ppt16~Policy~L_MicrosoftOfficePowerPoint~L_PowerPointOptions~L_Security/L_Makehiddenmarkupvisible
+</LocURI>
+		</Target>
+	</Item>
+</Delete>

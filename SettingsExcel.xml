@@ -1,0 +1,613 @@
+<Replace>
+	<CmdID>94CCA395-17AC-4BEF-808F-F5B71575D835</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ExternalContent/L_EnableBlockUnsecureQueryFiles
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>39E6524B-2254-4FE7-8323-F5090ED6E28B</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ExternalContent/L_DisableDDEServerLaunch
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>97AE9A10-0B29-4D61-BD82-4CD65E45C32F</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ExternalContent/L_DisableDDEServerLookup
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>AB6A7151-EB36-464A-8D97-F44AB619FD4D</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter/L_DisableTrustBarNotificationforunsigned
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>8B291C79-9F5E-48BA-8CD3-79A25CC03842</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter/L_RequirethatApplicationExtensionsaresigned
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>83189395-E874-495F-8AF1-5076323432B6</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter/L_Disableallapplicationextensions
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>4F824C0A-1FE8-4408-A4E8-AB65E2F09982</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security/L_Forcefileextenstionstomatch</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Empty" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>2661E911-251C-4C88-B338-A50BD78C9C6E</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_DBaseIIIANDIVFiles
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_DBaseIIIANDIVFilesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>06592B93-2E66-47C2-B6C5-65CD23510022</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_DifAndSylkFiles
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_DifAndSylkFilesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>B2F3653C-A8F1-4664-AF1D-D87FD44F1394</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel2MacrosheetsAndAddInFiles
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Excel2MacrosheetsAndAddInFilesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>27016D67-D0BB-41AF-B416-22605B40DBDD</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel2Worksheets
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Excel2WorksheetsDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>CE96D069-3178-4562-9859-FDE51B397A04</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel3MacrosheetsAndAddInFiles
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Excel3MacrosheetsAndAddInFilesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>64BA248D-78C2-4E0F-A38A-724610F4134F</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel3Worksheets
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Excel3WorksheetsDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>EEF1DB49-7923-4C5A-87B3-3847B37DBE69</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel4MacrosheetsAndAddInFiles
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Excel4MacrosheetsAndAddInFilesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>B4A88559-89C7-4C89-9EE6-D48EC6DCB18B</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel4Workbooks
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Excel4WorkbooksDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>C2FE5369-88AD-42F5-A89A-E2D253F6B3F2</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel4Worksheets
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Excel4WorksheetsDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>A51F872A-7770-4BAB-BAA6-462562BC28F8</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel95Workbooks
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Excel95WorkbooksDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>9D9A2A50-CD12-4B09-B840-7416FBFC297F</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel9597WorkbooksAndTemplates
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Excel9597WorkbooksAndTemplatesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>0FFB9A03-6FA7-41A0-A094-33D6F112B166</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel972003WorkbooksAndTemplates
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Excel972003WorkbooksAndTemplatesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>46498512-56B4-4288-95E8-915759754BA1</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_SetDefaultFileBlockBehavior
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_SetDefaultFileBlockBehaviorDropID" value="0"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>22AE3996-69DC-4A84-B0E2-E8D5D98BE795</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_WebPagesAndExcel2003XMLSpreadsheets
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_WebPagesAndExcel2003XMLSpreadsheetsDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>94CCA395-17AC-4BEF-808F-F5B71575D835</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security/L_TurnOffFileValidation
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>1281D6F1-AD1D-45C0-A311-C600EE24EDC3</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ProtectedView/L_EnableDataBaseFileProtectedView
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>76989169-78A7-443E-9802-03BE4839984C</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesFromTheInternetZoneInProtectedView
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>35DFE9E1-01A4-4374-B1D1-1731114B6062</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesInUnsafeLocationsInProtectedView
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>0275413F-8D2A-4D30-A1A5-DA1DC2FE7000</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ProtectedView/L_SetDocumentBehaviorIfFileValidationFails
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_SetDocumentBehaviorIfFileValidationFailsStr3" value="false"/> 
+			<data id="L_SetDocumentBehaviorIfFileValidationFailsDropID" value="0"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>D1EE7F31-D9C7-453A-8C65-96F78C31C612</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ProtectedView/L_TurnOffProtectedViewForAttachmentsOpenedFromOutlook
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>1A97741A-A75C-4897-97F5-A1DD75FC1165</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocuments
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>BE4E296A-B66F-4680-BA0E-E7CC69F01294</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocumentsOnTheNetwork
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+
+
+
+
+<Delete>
+	<CmdID>CCE49D95-CC54-4861-9BF6-1AD4F33AAC1D</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ExternalContent/L_EnableBlockUnsecureQueryFiles
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>A37AA54A-99FA-4B11-93E2-87F866CE2FC0</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ExternalContent/L_DisableDDEServerLaunch
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>374BEA6E-FE25-41AE-875D-EE1B767E017A</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ExternalContent/L_DisableDDEServerLookup
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>5AD69509-0897-4D58-8D31-085C97B11A4E</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter/L_DisableTrustBarNotificationforunsigned
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>5CA84506-D952-4886-B84D-21BD9188BC79</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter/L_RequirethatApplicationExtensionsaresigned
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>E8D0B773-4790-4EAA-8D27-DDBABADB24CB</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter/L_Disableallapplicationextensions
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>798F6166-04ED-4030-AD6D-1BB54173C50E</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security/L_Forcefileextenstionstomatch
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>2A42B399-16A8-41D0-8082-F3CD51D91879</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_DBaseIIIANDIVFiles
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>3CA21351-AF5F-4F06-84B9-EB05E2ADEA6F</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_DifAndSylkFiles
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>DBEC05AE-9E16-47A6-ABF0-646387A58DEF</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel2MacrosheetsAndAddInFiles
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>7F493791-AB18-4763-9248-11EA9A329251</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel2Worksheets
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>842BD727-6F6F-462B-B589-0BFC40720FE1</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel3MacrosheetsAndAddInFiles
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>5A68D675-5948-4134-9491-19D92B47BA19</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel3Worksheets
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>A166E31C-E174-4628-959A-937E515D196D</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel4MacrosheetsAndAddInFiles
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>2A25ADCA-C838-4C69-B4A4-5A2A5471654E</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel4Workbooks
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>DDB406AD-64A2-431F-BC04-791226361678</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel4Worksheets
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>F80E7F22-3A28-410A-BCC7-C73EC50135FD</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel95Workbooks
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>813564DE-BC9C-41F8-B6A7-FFA462E46C43</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel9597WorkbooksAndTemplates
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>5CADEEFE-9E31-4DE7-B4C8-C2CC1F888EE9</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Excel972003WorkbooksAndTemplates
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>8C1C8A08-3515-43CD-955A-A9474A658720</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_SetDefaultFileBlockBehavior
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>B6273261-3281-4AC7-8128-E158A77E77F8</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_WebPagesAndExcel2003XMLSpreadsheets
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>143F7AB4-0C35-440C-8098-2F8C11F3E486</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security/L_TurnOffFileValidation
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>18073289-6592-45FF-A6DD-7840753440C3</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ProtectedView/L_EnableDataBaseFileProtectedView
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>771006D6-2E4F-42A3-86A4-DCE2E48D2B92</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesFromTheInternetZoneInProtectedView
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>8F713049-379B-437C-9F9C-F22010EAA911</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesInUnsafeLocationsInProtectedView
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>1EC5FFAD-7515-4105-975C-3C0225163467</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ProtectedView/L_SetDocumentBehaviorIfFileValidationFails
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>D5B37C12-2567-4994-AB8D-E4A77E017143</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter~L_ProtectedView/L_TurnOffProtectedViewForAttachmentsOpenedFromOutlook
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>8F42233C-B7FD-4122-B85D-24B097215A2C</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocuments
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>6AC54EC0-10ED-4EC5-9EAE-F25F1841FAB5</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Excel16~Policy~L_MicrosoftOfficeExcel~L_ExcelOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocumentsOnTheNetwork
+</LocURI>
+		</Target>
+	</Item>
+</Delete>

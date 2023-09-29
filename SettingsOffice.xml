@@ -1,0 +1,138 @@
+<Replace>
+	<CmdID>C8EC9751-ECAE-4EAB-A37A-FCCD5C998E8A</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_Screenshot</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>D0CFD81E-7425-4C5E-AC3B-88FFB1CB3888</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_UpdateReliabilityPolicy</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>3D50BACD-4C16-4E6C-AD9E-2A8DFE4939E1</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_SendTelemetry</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_SendTelemetryDropID" value="3"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>DB1001BB-A385-4DB5-8625-3F50A26A3EA4</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_DisableOptinWizard</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>65BDE378-4169-41FD-93EE-26625245F067</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_EnableCustomerExperienceImprovementProgram</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>DCAE8804-10EA-4351-8C22-B1F3E29EBABB</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_SendFeedback</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>C8399F93-193B-48F6-AEEC-BFE9B2A11C3F</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_Sendcustomerdata</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+
+
+
+
+
+<Delete>
+	<CmdID>C8EC9751-ECAE-4EAB-A37A-FCCD5C998E8A</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_Screenshot</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>00415B49-83BB-4664-804F-B40B1AAB0DBA</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_UpdateReliabilityPolicy</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>B1869BBB-FF57-4B25-AD72-BFD8F5543926</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_SendTelemetry</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>AD089C04-08A7-4F91-A526-D297A65A29FF</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_DisableOptinWizard</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>A7BB25C4-C2A6-4A2B-B28E-DBB853D8876A</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_EnableCustomerExperienceImprovementProgram</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>9F2BF8CE-DBBD-4DE0-8132-C4A23255B864</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_SendFeedback</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>1AEFE166-921A-4F12-B2FB-5F426A3B2879</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Office16~Policy~L_MicrosoftOfficeSystem~L_Privacy~L_TrustCenter/L_Sendcustomerdata</LocURI>
+		</Target>
+	</Item>
+</Delete>

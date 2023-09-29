@@ -1,0 +1,166 @@
+<Replace>
+	<CmdID>C4740CD7-20A1-4409-9D60-73D8513142D6</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter/L_DisableTrustBarNotificationforunsigned
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>742D7D97-2B54-4BC1-AF08-5CDB3C6B4A5F</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter/L_RequirethatApplicationExtensionsaresigned
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>1648CB77-4087-4365-BD66-7BB5D0574128</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter/L_Disableallapplicationextensions
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>B3E8FEC9-E653-4C24-AE17-CD011384B582</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Visio2000Files</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Visio2000FilesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>327DFA8A-AB24-409D-B036-F2AFA8FC1862</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Visio2003Files</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Visio2003FilesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>4B29FBD9-75E6-435C-BE81-936C01394388</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Visio50AndEarlierFiles</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Visio50AndEarlierFilesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>D7B79647-FF9C-4957-AEC0-D44590FBE904</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocuments
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>510DF1B6-3F5D-4F18-B2AD-E844C021C6B9</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocumentsOnTheNetwork
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+
+
+
+
+<Delete>
+	<CmdID>9E5BC544-1EA8-4525-9EB4-A856B990ADED</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter/L_DisableTrustBarNotificationforunsigned
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>742D7D97-2B54-4BC1-AF08-5CDB3C6B4A5F</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter/L_RequirethatApplicationExtensionsaresigned
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>EA2E0C01-1B25-4FDA-8D91-E03E90C920B2</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter/L_Disableallapplicationextensions
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>D99B1FCD-E284-434A-8419-8BBD59785797</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Visio2000Files</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>69BB8B13-3B4D-469F-AC8A-3D7566DD7738</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Visio2003Files</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>285D8C31-3B77-487D-ABD1-B8DC9A6CC790</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Visio50AndEarlierFiles</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>1A80EB3C-3AF2-4EF5-95D9-5A2DFB591940</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocuments
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>9815D68B-A76A-4FA6-8AC9-C035F6AC6BF6</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Visio16~Policy~L_MicrosoftVisio~L_VisioOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocumentsOnTheNetwork
+</LocURI>
+		</Target>
+	</Item>
+</Delete>

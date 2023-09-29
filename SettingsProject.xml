@@ -1,0 +1,67 @@
+<Replace>
+	<CmdID>5A88FD57-A93E-4872-BDA7-3326E40EC183</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Proj16~Policy~L_Proj~L_ProjectOptions~L_Security~L_TrustCenter/L_DisableTrustBarNotificationforunsigned
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>357A95C4-FD75-4629-AEF6-47B451159F27</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Proj16~Policy~L_Proj~L_ProjectOptions~L_Security~L_TrustCenter/L_RequirethatApplicationExtensionsaresigned
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>3FB8F378-E8C0-429B-B84B-B839FF46B44C</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Proj16~Policy~L_Proj~L_ProjectOptions~L_Security~L_TrustCenter/L_Disableallapplicationextensions
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+
+
+
+
+<Delete>
+	<CmdID>B5776A69-F7FF-4719-929C-78F04D63D102</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Proj16~Policy~L_Proj~L_ProjectOptions~L_Security~L_TrustCenter/L_DisableTrustBarNotificationforunsigned
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>9A49CE71-3494-4952-BC5F-A4413DD34D38</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Proj16~Policy~L_Proj~L_ProjectOptions~L_Security~L_TrustCenter/L_RequirethatApplicationExtensionsaresigned
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>EEC2FD8E-20D7-4C8F-BC50-9BDF8005A689</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Proj16~Policy~L_Proj~L_ProjectOptions~L_Security~L_TrustCenter/L_Disableallapplicationextensions
+</LocURI>
+		</Target>
+	</Item>
+</Delete>

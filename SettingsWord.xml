@@ -1,0 +1,471 @@
+<Replace>
+	<CmdID>8F7CF0C8-FAB3-474A-9747-415B6D308E45</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_AllowDDE</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>E1D7F093-92DD-4F36-A2DD-0DAE69027034</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Advanced/L_UpdateautomaticlinksatOpen</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>0C5500DC-BDF8-44E2-A9F5-EE3817B08842</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_DisableTrustBarNotificationforunsigned
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>57C2B6F0-342B-4E28-A8D2-251E1D68A1D2</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_RequirethatApplicationExtensionsaresigned
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>E57F3BA9-5F52-40E2-8BB6-6AF02AA022C3</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_Disableallapplicationextensions
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>B9B65127-4FBE-4E9E-A7ED-86EDA6A15DF2</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_SetDefaultFileBlockBehavior
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_SetDefaultFileBlockBehaviorDropID" value="0"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>5B2BC012-65EF-4762-8239-8E8D0B373F05</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word2AndEarlierBinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Word2AndEarlierBinaryDocumentsAndTemplatesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>5B2BC012-65EF-4762-8239-8E8D0B373F05</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word2000BinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Word2000BinaryDocumentsAndTemplatesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>B309C049-6AFE-47C0-9DF5-9F20B4B0D428</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word2003BinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Word2003BinaryDocumentsAndTemplatesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>EC85C601-7F79-4B34-8566-C475AB1ED476</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word2007AndLaterBinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Word2007AndLaterBinaryDocumentsAndTemplatesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>65D6D6AE-0D76-42DF-90DF-087CCB187E02</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word6Pt0BinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Word6Pt0BinaryDocumentsAndTemplatesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>22C5D020-853B-4CB6-992E-3C6DDAE0335A</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word95BinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Word95BinaryDocumentsAndTemplatesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>40584D85-3A98-4A02-BC9E-7F0EF51D139D</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word97BinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_Word97BinaryDocumentsAndTemplatesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>869CAE16-05F3-438A-B0A3-49679ED70728</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_WordXPBinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_WordXPBinaryDocumentsAndTemplatesDropID" value="2"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>BEF08A40-FA03-4704-81F8-04BA43D6D5A3</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security/L_TurnOffFileValidation
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>AE064E68-DB97-440F-8992-9E696997A265</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesFromTheInternetZoneInProtectedView
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>5AC197B8-9B83-4F7D-AA88-DC44E67FA3B0</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesInUnsafeLocationsInProtectedView
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>8A7F292B-1CD2-43B8-9F4D-59790F2FCE2E</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_ProtectedView/L_SetDocumentBehaviorIfFileValidationFails
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/> <data id="L_SetDocumentBehaviorIfFileValidationFailsStr3" value="false"/> 
+			<data id="L_SetDocumentBehaviorIfFileValidationFailsDropID" value="0"/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>73946448-E80E-4497-8FB4-7497663F978B</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_ProtectedView/L_TurnOffProtectedViewForAttachmentsOpenedFromOutlook
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>7B6FB950-83F0-4A5A-AB25-4C15FEAFE58D</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocuments
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>2203E193-B863-48D0-90BB-CA8F59B97857</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocumentsOnTheNetwork
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+<Replace>
+	<CmdID>C210260E-0F15-4A71-8301-62C692BAB1A8</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security/L_Makehiddenmarkupvisible
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<enabled/>]]>
+		</Data>
+	</Item>
+</Replace>
+
+
+
+
+<Delete>
+	<CmdID>999D1052-EBFE-43DF-B141-5C3018C9E522</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_AllowDDE</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>889FD080-1796-4AF7-A120-2007ECF7CC55</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Advanced/L_UpdateautomaticlinksatOpen</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>A153DDEA-B407-4EAC-8A27-7C00CC7A0D73</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_DisableTrustBarNotificationforunsigned
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>57C2B6F0-342B-4E28-A8D2-251E1D68A1D2</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_RequirethatApplicationExtensionsaresigned
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>CE7C93B7-C994-4513-B781-773851816250</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_Disableallapplicationextensions
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>98EA21EC-FD09-4065-AAE7-1EE84A237056</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_SetDefaultFileBlockBehavior
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>35A00BE1-8340-4CCC-AE50-4EC420F007C8</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word2AndEarlierBinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>627EA4E5-EF0F-4B36-8096-823DE4F44413</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word2000BinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>B309C049-6AFE-47C0-9DF5-9F20B4B0D428</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word2003BinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>801F90F8-C4E3-4309-B3E7-A4D7ED4AE5AB</CmdID>
+	<Item>
+		<Target>
+			
+<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word2007AndLaterDocsAndTemplates
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>65D6D6AE-0D76-42DF-90DF-087CCB187E02</CmdID>
+	<Item>
+		<Target>
+			
+<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word6Pt0BinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>EA770FFA-4A3E-41E8-BCB7-715D93C38379</CmdID>
+	<Item>
+		<Target>
+			
+<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word95BinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>2A46DD29-AC1D-4A27-8AD6-E580551DDE83</CmdID>
+	<Item>
+		<Target>
+			
+<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_Word97BinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>DF1C3948-5FE1-4578-BA02-B90DC82E27B1</CmdID>
+	<Item>
+		<Target>
+			
+<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_FileBlockSettings/L_WordXPBinaryDocumentsAndTemplates
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>BEF08A40-FA03-4704-81F8-04BA43D6D5A3</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security/L_TurnOffFileValidation
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>AE064E68-DB97-440F-8992-9E696997A265</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesFromTheInternetZoneInProtectedView
+</LocURI>
+		</Target>
+		<Data>
+			<![CDATA[<disabled/>]]>
+		</Data>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>C6A601A4-AB14-4525-A3E6-8EFA4D8A5939</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_ProtectedView/L_DoNotOpenFilesInUnsafeLocationsInProtectedView
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>2E9DA4AA-7252-40B8-B596-90E99C29786D</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_ProtectedView/L_SetDocumentBehaviorIfFileValidationFails
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>DBFF9AF4-9DD3-441B-94C9-86EB5D88616D</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter~L_ProtectedView/L_TurnOffProtectedViewForAttachmentsOpenedFromOutlook
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Replace>
+	<CmdID>296F16E8-2339-461A-8C0E-ED15AA2A1EDB</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocuments
+</LocURI>
+		</Target>
+	</Item>
+</Replace>
+<Delete>
+	<CmdID>1391C375-F7E7-4819-BC3D-07BC8455FA99</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security~L_TrustCenter/L_TurnOffTrustedDocumentsOnTheNetwork
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
+<Delete>
+	<CmdID>45C4F50B-000C-461A-B9E7-35613E8D1052</CmdID>
+	<Item>
+		<Target>
+			<LocURI>./User/Vendor/MSFT/Policy/Config/Word16~Policy~L_MicrosoftOfficeWord~L_WordOptions~L_Security/L_Makehiddenmarkupvisible
+</LocURI>
+		</Target>
+	</Item>
+</Delete>
